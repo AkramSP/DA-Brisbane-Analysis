@@ -1,0 +1,44 @@
+[INFO] Loading Data from 'DA_Database_Rocklea-v2'...
+[INFO] Loading Temporal & Meta Data from: /content/drive/MyDrive/Stephanie ADP Development Application/Development Application Brisbane - Rocklea.csv
+[INFO] Renaming 'Application Number' column to 'DA_ID'...
+[SUCCESS] Loaded temporal data for 627 applications.
+[INFO] Constructing Graph Structure...
+
+============================================================
+QUANTITATIVE NETWORK INTELLIGENCE REPORT
+============================================================
+[INFO] Network Stats:
+   - Total Projects (Nodes): 558
+   - Total Consultants (Nodes): 472
+   - Network Density: 0.00192 (Higher = More Interconnected)
+------------------------------------------------------------
+
+TOP 10 MOST ACTIVE FIRMS (Market Volume):
+Rank  Firm Name                                Projects   Primary Role
+---------------------------------------------------------------------------
+1     Cardno HRP                               41         Planner
+2     Urbis                                    21         Planner
+3     I3 Consulting Pty Ltd                    15         Planner
+4     Ken Drew Town Planning Pty Ltd           15         Planner
+5     Storm Water Consulting Pty Ltd           15         Stormwater
+6     DWP                                      14         Architect
+7     Bartley Burns                            13         Planner
+8     TPS Group                                12         Traffic
+9     Ken Ryan And Associates Pty Ltd          10         Planner
+10    Urban Strategies Pty Ltd                 9          Planner
+
+[INFO] Calculating Betweenness Centrality (Influence)...
+
+TOP 10 INFLUENTIAL CONNECTORS (Network Hubs):
+Rank  Firm Name                                Score      Role
+---------------------------------------------------------------------------
+1     Cardno HRP                               0.1169     Planner
+2     Storm Water Consulting Pty Ltd           0.1142     Stormwater
+3     Ken Ryan And Associates Pty Ltd          0.0854     Planner
+4     Bartley Burns                            0.0600     Planner
+5     dwp suters                               0.0495     Architect
+6     John Gaskell Planning Consultants        0.0471     Planner
+7     Urbis                                    0.0464     Planner
+8     SBP Australia Pty Ltd.                   0.0452     Architect
+9     JT Environmental                         0.0428     Acoustic
+10    I3 Consulting Pty Ltd                    0.0426     Planner
