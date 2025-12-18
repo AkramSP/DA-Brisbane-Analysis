@@ -1,0 +1,38 @@
+============================================================
+QUANTITATIVE NETWORK INTELLIGENCE REPORT
+============================================================
+[INFO] Network Stats:
+   - Total Projects (Nodes): 635
+   - Total Consultants (Nodes): 490
+   - Network Density: 0.00171 (Higher = More Interconnected)
+------------------------------------------------------------
+
+TOP 10 MOST ACTIVE FIRMS (Market Volume):
+Rank  Firm Name                                Projects   Primary Role
+---------------------------------------------------------------------------
+1     Brisbane Town Planning                   38         Planner
+2     I B Town Planning                        34         Planner
+3     David Holden Building Design             25         Planner
+4     Ken Drew Town Planning                   24         Planner
+5     DTS                                      23         Planner
+6     Complete Design & Drafting               22         Architect
+7     Urbicus                                  21         Planner
+8     John Blackley Architect                  14         Planner
+9     WD Surveys                               13         Planner
+10    Bickerton Masters Architecture           12         Architect
+
+[INFO] Calculating Betweenness Centrality (Influence)...
+
+TOP 10 INFLUENTIAL CONNECTORS (Network Hubs):
+Rank  Firm Name                                Score      Role
+---------------------------------------------------------------------------
+1     I B Town Planning                        0.1373     Planner
+2     Brisbane Town Planning                   0.0991     Planner
+3     David Holden Building Design             0.0976     Planner
+4     Urbicus                                  0.0713     Planner
+5     DTS                                      0.0592     Planner
+6     TTM Consulting                           0.0582     Planner
+7     Ken Drew Town Planning                   0.0504     Planner
+8     Complete Design & Drafting               0.0432     Architect
+9     WD Surveys                               0.0417     Planner
+10    Milanovic Neale Consulting Engineers     0.0340     Planner
